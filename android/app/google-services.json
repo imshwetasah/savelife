@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "221714316217",
+    "project_id": "savelife-76fea",
+    "storage_bucket": "savelife-76fea.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:221714316217:android:21dc216ef3a7d1ced09468",
+        "android_client_info": {
+          "package_name": "com.example.savelife"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "221714316217-vu25g2qoku9mab4naakt6ug74qu3i60k.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBVl3PvOf7kBN06EpnboP8ZlPJGU8760a8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "221714316217-j1e457uiacq8pmqfjvtqebabk8tvfjai.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "221714316217-7t8cinek6fs8q88vaoj2m0u8q0h20pfj.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.savelife"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
